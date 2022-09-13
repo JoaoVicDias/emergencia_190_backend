@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  address: MyString
+  emergency_type: one
+  user: one
+  status: one
+
+two:
+  description: MyString
+  address: MyString
+  emergency_type: two
+  user: two
+  status: two
